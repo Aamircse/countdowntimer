@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  background-color: rgba(28, 253, 204, 0.393);
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.timer-box {
+  border: 1px solid hwb(263 5% 7%);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0 5px;
+  text-align: center;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 0.8em;
+}
